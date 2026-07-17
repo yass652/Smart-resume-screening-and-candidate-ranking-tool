@@ -1,0 +1,4 @@
+rank,name,filename,email,phone,final_score,years_experience,education,matched_skills,missing_skills
+1,Priya Sharma,candidate_priya_sharma.txt,priya.sharma@email.com,98765 4321,70.5,5.0,bachelor,aws; machine learning; nlp; python; sql,
+2,Arjun Mehta,candidate_arjun_mehta.txt,arjun.mehta@email.com,987-654-3210,37.55,2.0,bachelor,python; sql,aws; machine learning; nlp
+3,Neha Kapoor,candidate_neha_kapoor.txt,neha.kapoor@email.com,91234 5678,25.9,4.0,bachelor,,aws; machine learning; nlp; python; sql

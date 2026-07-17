@@ -1,0 +1,24 @@
+Priya Sharma
+priya.sharma@email.com | +91 98765 43210
+
+Summary
+Machine learning engineer with 5 years of experience building NLP and predictive
+models for production systems.
+
+Experience
+Data Scientist, Fintech Analytics — 2021 to present
+- Built machine learning models in Python using scikit-learn and pytorch
+- Developed NLP pipelines for document classification
+- Deployed models on AWS using Docker and Kubernetes
+- Wrote complex SQL queries for feature engineering on large datasets
+
+ML Engineer, StartupCo — 2019 to 2021
+- Worked on deep learning models for computer vision
+- Collaborated with product teams using agile methodology
+
+Education
+Bachelor of Technology (B.Tech), Computer Science, 2019
+
+Skills
+Python, Machine Learning, Deep Learning, NLP, SQL, AWS, Docker, Kubernetes,
+scikit-learn, TensorFlow, PyTorch, Git, Communication, Problem Solving

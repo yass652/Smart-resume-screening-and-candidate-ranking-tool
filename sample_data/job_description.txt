@@ -1,0 +1,20 @@
+REQUIRED_SKILLS: python, machine learning, sql, nlp, aws
+MIN_YEARS_EXPERIENCE: 3
+MIN_EDUCATION: bachelor
+---
+We are hiring a Machine Learning Engineer to join our data science team.
+
+Responsibilities:
+- Build and deploy machine learning and NLP models for production use cases
+- Write clean, efficient Python code and maintain data pipelines
+- Query and analyze large datasets using SQL
+- Collaborate with cross-functional teams to translate business problems into ML solutions
+- Deploy models on cloud infrastructure (AWS preferred)
+
+Requirements:
+- Bachelor's degree or higher in Computer Science, Data Science, or related field
+- 3+ years of experience in machine learning or data science roles
+- Strong Python programming skills
+- Experience with NLP techniques and libraries
+- Familiarity with SQL and cloud platforms (AWS/GCP/Azure)
+- Good communication and problem solving skills

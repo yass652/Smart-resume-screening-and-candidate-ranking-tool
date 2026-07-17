@@ -1,0 +1,18 @@
+Arjun Mehta
+arjun.mehta@email.com | 987-654-3210
+
+Summary
+Software engineer with 2 years of experience in backend development, recently
+transitioning toward data-focused roles.
+
+Experience
+Software Engineer, WebTech Solutions — 2022 to present
+- Built REST APIs using Django and Flask
+- Wrote SQL queries for reporting dashboards
+- Some exposure to Python-based data analysis using pandas and numpy
+
+Education
+Bachelor of Science (B.Sc), Information Technology, 2022
+
+Skills
+Python, SQL, Django, Flask, REST API, Git, HTML, CSS, Excel, Communication
