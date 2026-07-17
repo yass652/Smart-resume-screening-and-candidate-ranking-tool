@@ -110,3 +110,15 @@ resume_screener/
 - This is a decision-support tool, not an autonomous hiring decision-maker;
   a human should always review shortlists, particularly to check for bias in
   the underlying resume data and job requirements.
+# Project Screenshots
+
+## working
+<img width="2880" height="1796" alt="Screenshot 2026-07-17 224755" src="https://github.com/user-attachments/assets/7d254a37-39cc-447d-977c-e18d6e3a4ba2" />
+
+
+## output 
+<img width="1914" height="1176" alt="Screenshot 2026-07-17 224822" src="https://github.com/user-attachments/assets/6045c10c-0938-4dfd-9413-41cac1823132" />
+
+
+
+
